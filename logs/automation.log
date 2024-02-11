@@ -1,0 +1,16 @@
+12:31:41.375 [main] INFO  testCases.TC_001 - Click on Enterprise Link..
+12:31:41.381 [main] INFO  testCases.TC_001 - Capturing For Enterprise SS
+12:31:49.145 [main] INFO  testCases.TC_001 - Click on University Link
+12:31:49.145 [main] INFO  testCases.TC_001 - Click on Solution Link
+12:31:49.145 [main] INFO  testCases.TC_001 - Click on upSkills link
+12:31:49.145 [main] INFO  testCases.TC_001 - Click on get Started Button
+12:32:08.964 [main] INFO  testCases.TC_001 - Filling the Plan Details form
+12:32:08.965 [main] INFO  testCases.TC_001 - Click on Continue Button.
+12:32:08.965 [main] INFO  testCases.TC_001 - Capturing the Plan Details Form ScreenShot
+12:32:20.578 [main] INFO  testCases.TC_001 - Filling the AccountDetails form
+12:32:20.578 [main] INFO  testCases.TC_001 - Click on Continue Button.
+12:32:20.578 [main] INFO  testCases.TC_001 - Capturing the Account Details Form ScreenShot
+12:32:35.362 [main] INFO  testCases.TC_001 - Identifying error in a page..
+12:32:35.363 [main] INFO  testCases.TC_001 - Click on Continue Button.
+12:32:35.363 [main] INFO  testCases.TC_001 - Capturing the Email Error ScreenShot
+12:32:35.785 [main] INFO  testCases.TC_001 - **** Finished TC_004 ***

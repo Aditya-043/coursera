@@ -1,16 +1,53 @@
-12:31:41.375 [main] INFO  testCases.TC_001 - Click on Enterprise Link..
-12:31:41.381 [main] INFO  testCases.TC_001 - Capturing For Enterprise SS
-12:31:49.145 [main] INFO  testCases.TC_001 - Click on University Link
-12:31:49.145 [main] INFO  testCases.TC_001 - Click on Solution Link
-12:31:49.145 [main] INFO  testCases.TC_001 - Click on upSkills link
-12:31:49.145 [main] INFO  testCases.TC_001 - Click on get Started Button
-12:32:08.964 [main] INFO  testCases.TC_001 - Filling the Plan Details form
-12:32:08.965 [main] INFO  testCases.TC_001 - Click on Continue Button.
-12:32:08.965 [main] INFO  testCases.TC_001 - Capturing the Plan Details Form ScreenShot
-12:32:20.578 [main] INFO  testCases.TC_001 - Filling the AccountDetails form
-12:32:20.578 [main] INFO  testCases.TC_001 - Click on Continue Button.
-12:32:20.578 [main] INFO  testCases.TC_001 - Capturing the Account Details Form ScreenShot
-12:32:35.362 [main] INFO  testCases.TC_001 - Identifying error in a page..
-12:32:35.363 [main] INFO  testCases.TC_001 - Click on Continue Button.
-12:32:35.363 [main] INFO  testCases.TC_001 - Capturing the Email Error ScreenShot
-12:32:35.785 [main] INFO  testCases.TC_001 - **** Finished TC_004 ***
+10:10:41.922 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+10:10:41.944 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:10:42.024 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:10:42.028 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:10:42.113 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:10:42.117 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:10:42.121 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:10:42.121 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:10:42.161 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:10:42.161 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:10:42.163 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:10:42.166 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+10:10:42.166 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:10:50.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:10:50.074 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:10:50.170 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:10:50.174 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:10:50.176 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:10:50.177 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:10:50.180 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:10:50.181 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:10:50.182 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:10:50.186 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+10:10:50.186 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:10:50.298 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:10:50.300 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:10:50.398 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:10:50.401 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:10:50.404 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:10:50.404 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:10:50.408 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:10:50.408 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:10:50.408 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:10:50.412 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+10:10:50.412 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:11:02.533 [main] INFO  testCases.TC_001 - *****  Finished TC_003  *****
+10:11:02.750 [main] INFO  testCases.TC_001 - **** Starting TC_004 ***
+10:11:02.781 [main] INFO  testCases.TC_001 - Click on Enterprise Link..
+10:11:02.781 [main] INFO  testCases.TC_001 - Capturing For Enterprise SS
+10:11:18.585 [main] INFO  testCases.TC_001 - Click on University Link
+10:11:18.603 [main] INFO  testCases.TC_001 - Click on Solution Link
+10:11:18.604 [main] INFO  testCases.TC_001 - Click on upSkills link
+10:11:18.605 [main] INFO  testCases.TC_001 - Click on get Started Button
+10:12:25.344 [main] INFO  testCases.TC_001 - Filling the Plan Details form
+10:12:25.446 [main] INFO  testCases.TC_001 - Click on Continue Button.
+10:12:25.449 [main] INFO  testCases.TC_001 - Capturing the Plan Details Form ScreenShot
+10:12:38.774 [main] INFO  testCases.TC_001 - Filling the AccountDetails form
+10:12:38.774 [main] INFO  testCases.TC_001 - Click on Continue Button.
+10:12:38.774 [main] INFO  testCases.TC_001 - Capturing the Account Details Form ScreenShot
+10:12:55.375 [main] INFO  testCases.TC_001 - Identifying error in a page..
+10:12:55.375 [main] INFO  testCases.TC_001 - Click on Continue Button.
+10:12:55.375 [main] INFO  testCases.TC_001 - Capturing the Email Error ScreenShot
+10:12:56.057 [main] INFO  testCases.TC_001 - **** Finished TC_004 ***

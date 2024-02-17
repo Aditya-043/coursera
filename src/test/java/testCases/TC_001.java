@@ -14,12 +14,12 @@ public class TC_001 extends BaseClass{
 		ScreenShot ss = new ScreenShot();
 		logger.info("*****  Starting TC_001 *****");
 		try {
-			CourseraPage cp = new CourseraPage(driver);
+			CourseraPage courserapage = new CourseraPage(driver);
 			logger.info("Capturing Coursera Tilte SS");
 			ss.screenshot(driver, "CourseraPageSS");
 			
 			logger.info("Verifying Coursera Title");
-			boolean status = cp.VerifyCourseraTitle();
+			boolean status = courserapage.VerifyCourseraTitle();
 			logger.info("***** Finished TC_001 *****");
 			Assert.assertEquals(status, true);
 		}

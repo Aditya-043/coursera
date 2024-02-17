@@ -17,7 +17,7 @@ public class PlanDetailsFormPage extends BasePage{
 	@FindBy(xpath = "//input[@aria-label='Number of users']")
 	private WebElement numberOfUsersInput;
 
-	@FindBy(xpath = "//button[@class='cds-128 cds-button-disableElevation cds-button-primary css-efrgiy']")
+	@FindBy(xpath = "//span[contains(text(),'Continue')]")
 	private WebElement continueButton;
 	
 	@FindBy(xpath="//span[contains(text(), \"No thanks\")]")

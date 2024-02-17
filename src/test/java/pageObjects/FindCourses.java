@@ -38,7 +38,7 @@ public class FindCourses extends BasePage{
 	@FindBy(xpath="//div[@id='checkbox-group']//div[@class='cds-checkboxAndRadio-labelText']//span")
 	List<WebElement> allLang_loc;
 	
-	@FindBy(xpath="(//button[@class='cds-149 cds-button-disableElevation cds-button-primary css-1wio7h1'])[1]")
+	@FindBy(xpath="//div[@class='css-1hllf5q']//button[1]")
 	WebElement apply_loc;
 	
 	@FindBy(xpath="//div[@data-testid=\"search-filter-group-Level\"]//label[@class=\"cds-checkboxAndRadio-label\"]/div[@class=\"cds-checkboxAndRadio-labelText\"][1]")

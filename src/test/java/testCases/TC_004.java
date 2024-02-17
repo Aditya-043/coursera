@@ -24,8 +24,8 @@ public class TC_004 extends BaseClass{
 	        
 	        logger.info("Click on Enterprise Link..");
 	        logger.info("Capturing For Enterprise SS");
-	        ss.screenshot(driver, "For EnterpriseSS");
 	        forEnterprisePage.clickForEnterpriseBtn();
+	        ss.screenshot(driver, "For EnterpriseSS");
 	        
 	        logger.info("Click on University Link");
 	        logger.info("Click on Solution Link");
@@ -38,14 +38,15 @@ public class TC_004 extends BaseClass{
 	        logger.info("Filling the Plan Details form");
 	        logger.info("Click on Continue Button.");
 	        logger.info("Capturing the Plan Details Form ScreenShot");
-	        ss.screenshot(driver, "FormFill SS");
 	        planDetailsPage.fillPlanDetails();
+	        ss.screenshot(driver, "FormFill SS");
 	        
 	        logger.info("Filling the AccountDetails form");
 	        logger.info("Click on Continue Button.");
 	        logger.info("Capturing the Account Details Form ScreenShot");
-	        ss.screenshot(driver, "FormFill SS");
 	        accountDetailsPage.fillForm();
+	        ss.screenshot(driver, "FormFill SS");
+
 	        
 	        logger.info("Identifying error in a page..");
 	        logger.info("Click on Continue Button.");

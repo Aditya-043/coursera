@@ -1,47 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-15T09:57:41 IST" name="Suite" finished-at="2024-02-15T10:13:05 IST" duration-ms="924140">
+  <suite started-at="2024-02-17T22:26:24 IST" name="Suite" finished-at="2024-02-17T22:28:01 IST" duration-ms="96297">
     <groups>
-      <group name="regression">
-        <method signature="TC_002.VerifyFindCoursesPage()[pri:0, instance:testCases.TC_002@4febb875]" name="VerifyFindCoursesPage" class="testCases.TC_002"/>
-        <method signature="TC_003.AllCourses()[pri:0, instance:testCases.TC_003@25e2a451]" name="AllCourses" class="testCases.TC_003"/>
-        <method signature="TC_002.VerifyFindCoursesPage()[pri:0, instance:testCases.TC_002@27305e6]" name="VerifyFindCoursesPage" class="testCases.TC_002"/>
-        <method signature="TC_003.AllCourses()[pri:0, instance:testCases.TC_003@1ef3efa8]" name="AllCourses" class="testCases.TC_003"/>
-      </group> <!-- regression -->
       <group name="smoke">
-        <method signature="TC_004.fillFormWithInvalidInput()[pri:0, instance:testCases.TC_004@1698ee84]" name="fillFormWithInvalidInput" class="testCases.TC_004"/>
-        <method signature="TC_001.Verify_CourseraPage()[pri:1, instance:testCases.TC_001@163d04ff]" name="Verify_CourseraPage" class="testCases.TC_001"/>
-        <method signature="TC_004.fillFormWithInvalidInput()[pri:0, instance:testCases.TC_004@502f1f4c]" name="fillFormWithInvalidInput" class="testCases.TC_004"/>
-        <method signature="TC_001.Verify_CourseraPage()[pri:1, instance:testCases.TC_001@5974109]" name="Verify_CourseraPage" class="testCases.TC_001"/>
+        <method signature="TC_004.fillFormWithInvalidInput()[pri:0, instance:testCases.TC_004@6cfcd46d]" name="fillFormWithInvalidInput" class="testCases.TC_004"/>
       </group> <!-- smoke -->
       <group name="master">
-        <method signature="TC_002.VerifyFindCoursesPage()[pri:0, instance:testCases.TC_002@4febb875]" name="VerifyFindCoursesPage" class="testCases.TC_002"/>
-        <method signature="TC_003.AllCourses()[pri:0, instance:testCases.TC_003@25e2a451]" name="AllCourses" class="testCases.TC_003"/>
-        <method signature="TC_004.fillFormWithInvalidInput()[pri:0, instance:testCases.TC_004@1698ee84]" name="fillFormWithInvalidInput" class="testCases.TC_004"/>
-        <method signature="TC_001.Verify_CourseraPage()[pri:1, instance:testCases.TC_001@163d04ff]" name="Verify_CourseraPage" class="testCases.TC_001"/>
-        <method signature="TC_002.VerifyFindCoursesPage()[pri:0, instance:testCases.TC_002@27305e6]" name="VerifyFindCoursesPage" class="testCases.TC_002"/>
-        <method signature="TC_003.AllCourses()[pri:0, instance:testCases.TC_003@1ef3efa8]" name="AllCourses" class="testCases.TC_003"/>
-        <method signature="TC_004.fillFormWithInvalidInput()[pri:0, instance:testCases.TC_004@502f1f4c]" name="fillFormWithInvalidInput" class="testCases.TC_004"/>
-        <method signature="TC_001.Verify_CourseraPage()[pri:1, instance:testCases.TC_001@5974109]" name="Verify_CourseraPage" class="testCases.TC_001"/>
+        <method signature="TC_004.fillFormWithInvalidInput()[pri:0, instance:testCases.TC_004@6cfcd46d]" name="fillFormWithInvalidInput" class="testCases.TC_004"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-02-15T09:57:41 IST" name="chrometest" finished-at="2024-02-15T10:05:57 IST" duration-ms="496009">
-      <class name="testCases.TC_003">
-        <test-method signature="AllCourses()[pri:0, instance:testCases.TC_003@25e2a451]" started-at="2024-02-15T09:59:03 IST" name="AllCourses" finished-at="2024-02-15T10:04:10 IST" duration-ms="306976" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AllCourses -->
-      </class> <!-- testCases.TC_003 -->
+    <test started-at="2024-02-17T22:26:24 IST" name="Test" finished-at="2024-02-17T22:28:01 IST" duration-ms="96297">
       <class name="testCases.TC_004">
-        <test-method signature="fillFormWithInvalidInput()[pri:0, instance:testCases.TC_004@1698ee84]" started-at="2024-02-15T10:04:10 IST" name="fillFormWithInvalidInput" finished-at="2024-02-15T10:05:55 IST" duration-ms="105055" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- fillFormWithInvalidInput -->
-      </class> <!-- testCases.TC_004 -->
-      <class name="testCases.TC_001">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001@163d04ff]" started-at="2024-02-15T09:57:41 IST" name="setup" finished-at="2024-02-15T09:58:22 IST" duration-ms="40620" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_004@6cfcd46d]" started-at="2024-02-17T22:26:26 IST" name="setup" finished-at="2024-02-17T22:26:54 IST" duration-ms="27945" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -57,67 +29,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Verify_CourseraPage()[pri:1, instance:testCases.TC_001@163d04ff]" started-at="2024-02-15T09:58:23 IST" name="Verify_CourseraPage" finished-at="2024-02-15T09:58:27 IST" duration-ms="4369" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Verify_CourseraPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001@163d04ff]" started-at="2024-02-15T10:05:55 IST" name="tearDown" finished-at="2024-02-15T10:05:57 IST" duration-ms="1847" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_001 -->
-      <class name="testCases.TC_002">
-        <test-method signature="VerifyFindCoursesPage()[pri:0, instance:testCases.TC_002@4febb875]" started-at="2024-02-15T09:58:27 IST" name="VerifyFindCoursesPage" finished-at="2024-02-15T09:59:03 IST" duration-ms="35696" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- VerifyFindCoursesPage -->
-      </class> <!-- testCases.TC_002 -->
-    </test> <!-- chrometest -->
-    <test started-at="2024-02-15T10:05:58 IST" name="edgetest" finished-at="2024-02-15T10:13:05 IST" duration-ms="427879">
-      <class name="testCases.TC_003">
-        <test-method signature="AllCourses()[pri:0, instance:testCases.TC_003@1ef3efa8]" started-at="2024-02-15T10:06:42 IST" name="AllCourses" finished-at="2024-02-15T10:11:02 IST" duration-ms="260295" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AllCourses -->
-      </class> <!-- testCases.TC_003 -->
-      <class name="testCases.TC_004">
-        <test-method signature="fillFormWithInvalidInput()[pri:0, instance:testCases.TC_004@502f1f4c]" started-at="2024-02-15T10:11:02 IST" name="fillFormWithInvalidInput" finished-at="2024-02-15T10:12:56 IST" duration-ms="113326" status="PASS">
+        <test-method signature="fillFormWithInvalidInput()[pri:0, instance:testCases.TC_004@6cfcd46d]" started-at="2024-02-17T22:26:54 IST" name="fillFormWithInvalidInput" finished-at="2024-02-17T22:27:58 IST" duration-ms="64628" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fillFormWithInvalidInput -->
-      </class> <!-- testCases.TC_004 -->
-      <class name="testCases.TC_001">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001@5974109]" started-at="2024-02-15T10:05:58 IST" name="setup" finished-at="2024-02-15T10:06:20 IST" duration-ms="22755" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="Verify_CourseraPage()[pri:1, instance:testCases.TC_001@5974109]" started-at="2024-02-15T10:06:20 IST" name="Verify_CourseraPage" finished-at="2024-02-15T10:06:24 IST" duration-ms="3708" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Verify_CourseraPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001@5974109]" started-at="2024-02-15T10:12:56 IST" name="tearDown" finished-at="2024-02-15T10:13:05 IST" duration-ms="9709" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004@6cfcd46d]" started-at="2024-02-17T22:27:59 IST" name="tearDown" finished-at="2024-02-17T22:28:01 IST" duration-ms="1924" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_001 -->
-      <class name="testCases.TC_002">
-        <test-method signature="VerifyFindCoursesPage()[pri:0, instance:testCases.TC_002@27305e6]" started-at="2024-02-15T10:06:24 IST" name="VerifyFindCoursesPage" finished-at="2024-02-15T10:06:42 IST" duration-ms="17564" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- VerifyFindCoursesPage -->
-      </class> <!-- testCases.TC_002 -->
-    </test> <!-- edgetest -->
+      </class> <!-- testCases.TC_004 -->
+    </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

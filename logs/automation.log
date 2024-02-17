@@ -1,0 +1,9 @@
+22:41:46.830 [TestNG-tests-1] INFO  testCases.TC_001 - Capturing For Enterprise SS
+22:41:53.697 [TestNG-tests-2] INFO  testCases.TC_001 - Language Learning Page Test Case is Failed.
+22:41:54.584 [TestNG-tests-1] INFO  testCases.TC_001 - Click on University Link
+22:41:54.585 [TestNG-tests-1] INFO  testCases.TC_001 - Click on Solution Link
+22:41:54.586 [TestNG-tests-1] INFO  testCases.TC_001 - Click on upSkills link
+22:41:54.587 [TestNG-tests-1] INFO  testCases.TC_001 - Click on get Started Button
+22:41:55.579 [TestNG-tests-2] INFO  testCases.TC_001 - **** Starting TC_002 ***
+22:41:55.581 [TestNG-tests-2] INFO  testCases.TC_001 - Capturing FindCourses Page SS
+22:41:56.327 [TestNG-tests-2] INFO  testCases.TC_001 - Search Web Development Course passing in input Box.

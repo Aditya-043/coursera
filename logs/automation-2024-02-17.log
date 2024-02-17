@@ -1,0 +1,51 @@
+22:39:14.324 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303562\eclipse-workspace\Hackathon\crossbrowsertests.xml"
+22:39:15.731 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303562\eclipse-workspace\Hackathon\crossbrowsertests.xml
+
+22:39:50.327 [TestNG-tests-2] INFO  testCases.TC_001 - *****  Starting TC_003  *****
+22:39:50.484 [TestNG-tests-2] INFO  testCases.TC_001 - Passing Language Learning in input Box..
+22:40:02.034 [TestNG-tests-2] INFO  testCases.TC_001 - Get Course Count
+22:40:15.442 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+22:40:15.444 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+22:40:15.832 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+22:40:15.861 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+22:40:15.880 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+22:40:15.911 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+22:40:15.913 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+22:40:15.914 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+22:40:16.056 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:40:16.059 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:40:16.855 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+22:40:16.863 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+22:40:16.875 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+22:40:16.883 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+22:40:16.894 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+22:40:16.900 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+22:40:16.905 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+22:40:16.919 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+22:40:27.657 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:40:27.667 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:40:27.770 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+22:40:27.774 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+22:40:27.779 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+22:40:27.780 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+22:40:27.785 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+22:40:27.787 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+22:40:27.788 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+22:40:27.794 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+22:40:46.812 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303562\eclipse-workspace\Hackathon\crossbrowsertests.xml"
+22:40:48.304 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303562\eclipse-workspace\Hackathon\crossbrowsertests.xml
+
+22:41:24.007 [TestNG-tests-2] INFO  testCases.TC_001 - *****  Starting TC_003  *****
+22:41:24.143 [TestNG-tests-2] INFO  testCases.TC_001 - Passing Language Learning in input Box..
+22:41:32.770 [TestNG-tests-1] INFO  testCases.TC_001 - *****  Starting TC_003  *****
+22:41:32.778 [TestNG-tests-1] INFO  testCases.TC_001 - Passing Language Learning in input Box..
+22:41:42.859 [TestNG-tests-1] INFO  testCases.TC_001 - Language Learning Page Test Case is Failed.
+22:41:43.498 [TestNG-tests-2] INFO  testCases.TC_001 - Get Course Count
+22:41:44.468 [TestNG-tests-1] INFO  testCases.TC_001 - **** Starting TC_002 ***
+22:41:44.490 [TestNG-tests-1] INFO  testCases.TC_001 - Capturing FindCourses Page SS
+22:41:45.000 [TestNG-tests-1] INFO  testCases.TC_001 - Search Web Development Course passing in input Box.
+22:41:46.409 [TestNG-tests-1] INFO  testCases.TC_001 - **** Test Case Failed *****
+22:41:46.792 [TestNG-tests-1] INFO  testCases.TC_001 - **** Starting TC_004 ***
+22:41:46.830 [TestNG-tests-1] INFO  testCases.TC_001 - Click on Enterprise Link..

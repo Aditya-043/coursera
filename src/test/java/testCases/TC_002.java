@@ -35,6 +35,7 @@ public class TC_002 extends BaseClass{
 			
 			logger.info("Showing all Course Details..");
 			findcourses.getCourseDetails();
+			ss.screenshot(driver, "TwoWebDevCoursesSS");
 			
 			logger.info("***** Finished TC_002 *****");
 		}
@@ -42,7 +43,7 @@ public class TC_002 extends BaseClass{
 		{
 			System.out.println(e.getMessage());
 			ss.screenshot(driver, "Failed SS");
-			logger.info("*** Test Case Failed ***");
+			logger.info("**** Test Case Failed *****");
 		}
 		
 		

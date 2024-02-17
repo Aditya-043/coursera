@@ -47,7 +47,7 @@ public class LanguageLearningPage extends BasePage {
 	@FindBy(xpath="//div[@aria-label='Select Language options']/div/label/div/span")
 	List<WebElement> AllLanguages;
 	
-	@FindBy(xpath="(//button[@class='cds-149 cds-button-disableElevation cds-button-primary css-1wio7h1'])[1]")
+	@FindBy(xpath="//div[@class='css-1hllf5q']//button[1]")
 	WebElement apply_loc;
 	
 	@FindBy(xpath="//div[@data-testid=\"search-filter-group-Level\"]//div[@class=\"cds-checkboxAndRadio-labelText\"]")
